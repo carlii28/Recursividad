@@ -13,7 +13,7 @@ public class Recursividad {
     }
     public static void main(String[] args){
         int numero = 00112233;
-        int digito = 4;
+        int digito = 2;
         int resultado = Recursividad.contar(numero,digito);
     System.out.println("Aparece" + resultado + "veces");
     }
